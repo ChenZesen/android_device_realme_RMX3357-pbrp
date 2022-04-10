@@ -24,10 +24,10 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/gsi_keys.mk)
 # Inherit from our custom product configuration
 $(call inherit-product, vendor/pb/config/common.mk)
 
-PRODUCT_DEVICE := RMX2121
-PRODUCT_NAME := omni_RMX2121
+PRODUCT_DEVICE := RMX3357
+PRODUCT_NAME := omni_RMX3357
 PRODUCT_BRAND := Realme
-PRODUCT_MODEL := Realme X7 Pro
+PRODUCT_MODEL := Realme GT Neo 2T
 PRODUCT_MANUFACTURER := Realme
 
 # Dynamic

@@ -1,3 +1,3 @@
 ro.adb.secure=0
 ro.vendor.mediatek.platform=MT6893
-ro.product.product.device=RMX3357
+ro.commonsoft.ota=RE5469
